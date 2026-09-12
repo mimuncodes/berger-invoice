@@ -1,9 +1,10 @@
 {
-  "name":"Berger Invoice",
-  "short_name":"Berger Cash Memo",
-  "start_url": "/berger-invoice/"
-  "display":"standalone",
-  "background_color":"#eef2f6",
-  "theme_color":"#006fc9",
-  "icons":[]
+  "name": "Berger Invoice",
+  "short_name": "Invoice",
+  "start_url": "/berger-invoice/",
+  "scope": "/berger-invoice/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
 }
+
