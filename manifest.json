@@ -1,7 +1,7 @@
 {
-  "name":"Berger Cash Memo",
+  "name":"Berger Invoice",
   "short_name":"Berger Cash Memo",
-  "start_url":"./Berger%20cash%20memo.html",
+  "start_url": "/berger-invoice/"
   "display":"standalone",
   "background_color":"#eef2f6",
   "theme_color":"#006fc9",
